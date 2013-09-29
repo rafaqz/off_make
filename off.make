@@ -48,7 +48,7 @@ projects[filefield_nginx_progress][version] = "2.3"
 projects[iin_navigation_block][type] = "module"
 projects[iin_navigation_block][download][type] = "git"
 projects[iin_navigation_block][download][url] = "git@github.com:rafaqz/off_navigation.git"
-projects[iin_navigation_block][download][branch] = "master"
+projects[iin_navigation_block][download][branch] = "off"
 projects[iin_navigation_block][subdir] = "custom"
 
 ; +++++ Features +++++
