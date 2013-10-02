@@ -129,6 +129,12 @@ projects[off_feature][type] = "module"
 ;projects[off_feature][version] = "1.0-alpha1"
 projects[off_feature][subdir] = "features"
 
+projects[off_overrides_feature][download][type] = "git"
+projects[off_overrides_feature][download][url] = "git@github.com:rafaqz/off_overrides_feature"
+projects[off_overrides_feature][type] = "module"
+;projects[off_overrides_feature][version] = "1.0-alpha1"
+projects[off_overrides_feature][subdir] = "features"
+
 projects[off_membership_form_feature][download][type] = "git"
 projects[off_membership_form_feature][download][url] = "git@github.com:rafaqz/off_membership_form_feature"
 projects[off_membership_form_feature][type] = "module"
