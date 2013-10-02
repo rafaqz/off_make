@@ -52,12 +52,6 @@ projects[iin_navigation_block][download][branch] = "off"
 projects[iin_navigation_block][subdir] = "custom"
 
 ; +++++ Features +++++
-projects[collabco_profile_feature][download][type] = "git"
-projects[collabco_profile_feature][download][url] = "git@github.com:Collabforge/collabco_profile_feature"
-projects[collabco_profile_feature][download][branch] = "iin"
-projects[collabco_profile_feature][type] = "module"
-projects[collabco_profile_feature][subdir] = "features"
-
 projects[collabco_conversation_feature][download][type] = "git"
 projects[collabco_conversation_feature][download][url] = "git@github.com:Collabforge/collabco_conversation_feature"
 projects[collabco_conversation_feature][download][branch] = "iin"
@@ -71,22 +65,34 @@ projects[collabco_conversation_feature][subdir] = "features"
 ;;projects[collabco_capabilities_feature][version] = "1.0-alpha1"
 ;projects[collabco_capabilities_feature][subdir] = "features"
 
+projects[collabco_event_feature][download][type] = "git"
+projects[collabco_event_feature][download][url] = "git@github.com:Collabforge/collabco_event_feature"
+projects[collabco_event_feature][type] = "module"
+;projects[collabco_event_feature][version] = "1.0-alpha1"
+projects[collabco_event_feature][subdir] = "features"
+
+projects[collabco_extension_service_feature][download][type] = "git"
+projects[collabco_extension_service_feature][download][url] = "git@github.com:Collabforge/collabco_extension_service_feature"
+projects[collabco_extension_service_feature][type] = "module"
+;projects[collabco_extension_service_feature][version] = "1.0-alpha1"
+projects[collabco_extension_service_feature][subdir] = "features"
+
 projects[collabco_knowledge_feature][download][type] = "git"
 projects[collabco_knowledge_feature][download][url] = "git@github.com:Collabforge/collabco_knowledge_feature"
 projects[collabco_knowledge_feature][type] = "module"
 ;projects[collabco_knowledge_feature][version] = "1.0-alpha1"
 projects[collabco_knowledge_feature][subdir] = "features"
 
+projects[collabco_profile_feature][download][type] = "git"
+projects[collabco_profile_feature][download][url] = "git@github.com:Collabforge/collabco_profile_feature"
+projects[collabco_profile_feature][download][branch] = "iin"
+projects[collabco_profile_feature][type] = "module"
+projects[collabco_profile_feature][subdir] = "features"
+
 projects[collabco_slideshow_feature][download][type] = "git"
 projects[collabco_slideshow_feature][download][url] = "git@github.com:Collabforge/collabco_slideshow_feature.git"
 projects[collabco_slideshow_feature][type] = "module"
 projects[collabco_slideshow_feature][subdir] = "features"
-
-projects[collabco_event_feature][download][type] = "git"
-projects[collabco_event_feature][download][url] = "git@github.com:Collabforge/collabco_event_feature"
-projects[collabco_event_feature][type] = "module"
-;projects[collabco_event_feature][version] = "1.0-alpha1"
-projects[collabco_event_feature][subdir] = "features"
 
 projects[collabco_message_feature][download][type] = "git"
 projects[collabco_message_feature][download][url] = "git@github.com:Collabforge/collabco_message_feature.git"
