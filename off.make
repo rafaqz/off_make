@@ -147,6 +147,11 @@ projects[off_idea_feature][type] = "module"
 ;projects[off_idea_feature][version] = "1.0-alpha1"
 projects[off_idea_feature][subdir] = "features"
 
+projects[off_projects_feature][download][type] = "git"
+projects[off_projects_feature][download][url] = "git@github.com:rafaqz/off_projects_feature"
+projects[off_projects_feature][type] = "module"
+projects[off_projects_feature][subdir] = "features"
+
 ; +++++ Themes +++++
 projects[custom_theme][download][type] = "git"
 projects[custom_theme][download][url] = "git@github.com:rafaqz/off_theme.git"
