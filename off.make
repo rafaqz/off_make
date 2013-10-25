@@ -152,6 +152,11 @@ projects[off_projects_feature][download][url] = "git@github.com:rafaqz/off_proje
 projects[off_projects_feature][type] = "module"
 projects[off_projects_feature][subdir] = "features"
 
+projects[off_wiki_feature][download][type] = "git"
+projects[off_wiki_feature][download][url] = "git@github.com:rafaqz/off_wiki_feature"
+projects[off_wiki_feature][type] = "module"
+projects[off_wiki_feature][subdir] = "features"
+
 ; +++++ Themes +++++
 projects[custom_theme][download][type] = "git"
 projects[custom_theme][download][url] = "git@github.com:rafaqz/off_theme.git"
