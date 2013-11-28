@@ -40,9 +40,6 @@ projects[collabco][type] = "profile"
 
 ; +++++ Modules +++++
 ;
-; For nginx servers.
-projects[filefield_nginx_progress][subdir] = "contrib"
-projects[filefield_nginx_progress][version] = "2.3"
 
 ; +++++ Custom Modules +++++
 projects[iin_navigation_block][type] = "module"
