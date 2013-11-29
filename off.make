@@ -93,6 +93,7 @@ projects[collabco_slideshow_feature][subdir] = "features"
 
 projects[collabco_message_feature][download][type] = "git"
 projects[collabco_message_feature][download][url] = "git@github.com:rafaqz/collabco_message_feature.git"
+projects[collabco_profile_feature][download][branch] = "og"
 projects[collabco_message_feature][type] = "module"
 projects[collabco_message_feature][subdir] = "features"
 
@@ -149,6 +150,11 @@ projects[off_wiki_feature][download][type] = "git"
 projects[off_wiki_feature][download][url] = "git@github.com:rafaqz/off_wiki_feature"
 projects[off_wiki_feature][type] = "module"
 projects[off_wiki_feature][subdir] = "features"
+
+projects[off_group_menu][download][type] = "git"
+projects[off_group_menu][download][url] = "git@github.com:rafaqz/off_group_menu"
+projects[off_group_menu][type] = "module"
+projects[off_group_menu][subdir] = "custom"
 
 ; +++++ Themes +++++
 projects[custom_theme][download][type] = "git"
