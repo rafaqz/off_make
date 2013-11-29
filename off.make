@@ -93,7 +93,7 @@ projects[collabco_slideshow_feature][subdir] = "features"
 
 projects[collabco_message_feature][download][type] = "git"
 projects[collabco_message_feature][download][url] = "git@github.com:rafaqz/collabco_message_feature.git"
-projects[collabco_profile_feature][download][branch] = "og"
+projects[collabco_message_feature][download][branch] = "og"
 projects[collabco_message_feature][type] = "module"
 projects[collabco_message_feature][subdir] = "features"
 
