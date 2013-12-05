@@ -100,6 +100,7 @@ projects[collabco_message_feature][subdir] = "features"
 projects[collabco_organisation_feature][download][type] = "git"
 projects[collabco_organisation_feature][download][url] = "git@github.com:rafaqz/collabco_organisation_feature"
 projects[collabco_organisation_feature][type] = "module"
+projects[collabco_organisation_feature][download][branch] = "off"
 ;projects[collabco_organisation_feature][version] = "1.0-alpha1"
 projects[collabco_organisation_feature][subdir] = "features"
 
