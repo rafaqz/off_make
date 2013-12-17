@@ -157,11 +157,6 @@ projects[off_categories_feature][download][url] = "git@github.com:rafaqz/off_cat
 projects[off_categories_feature][type] = "module"
 projects[off_categories_feature][subdir] = "features"
 
-projects[off_group_menu][download][type] = "git"
-projects[off_group_menu][download][url] = "git@github.com:rafaqz/off_group_menu"
-projects[off_group_menu][type] = "module"
-projects[off_group_menu][subdir] = "custom"
-
 ; +++++ Themes +++++
 projects[custom_theme][download][type] = "git"
 projects[custom_theme][download][url] = "git@github.com:rafaqz/off_theme.git"
