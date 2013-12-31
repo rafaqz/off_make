@@ -104,6 +104,11 @@ projects[collabco_organisation_feature][download][branch] = "off"
 ;projects[collabco_organisation_feature][version] = "1.0-alpha1"
 projects[collabco_organisation_feature][subdir] = "features"
 
+projects[collabco_login_feature][download][type] = "git"
+projects[collabco_login_feature][download][url] = "git@github.com:rafaqz/collabco_login_feature.git"
+projects[collabco_login_feature][type] = "module"
+projects[collabco_login_feature][subdir] = "features"
+
 ;projects[collabco_mail_feature][download][type] = "git"
 ;projects[collabco_mail_feature][download][url] = "git@github.com:rafaqz/collabco_mail_feature"
 ;projects[collabco_mail_feature][type] = "module"
@@ -126,11 +131,6 @@ projects[off_feature][download][type] = "git"
 projects[off_feature][download][url] = "git@github.com:rafaqz/off_feature"
 projects[off_feature][type] = "module"
 projects[off_feature][subdir] = "features"
-
-projects[off_overrides_feature][download][type] = "git"
-projects[off_overrides_feature][download][url] = "git@github.com:rafaqz/off_overrides_feature"
-projects[off_overrides_feature][type] = "module"
-projects[off_overrides_feature][subdir] = "features"
 
 projects[off_membership_form_feature][download][type] = "git"
 projects[off_membership_form_feature][download][url] = "git@github.com:rafaqz/off_membership_form_feature"
