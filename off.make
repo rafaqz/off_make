@@ -109,11 +109,12 @@ projects[collabco_login_feature][download][url] = "git@github.com:rafaqz/collabc
 projects[collabco_login_feature][type] = "module"
 projects[collabco_login_feature][subdir] = "features"
 
-;projects[collabco_mail_feature][download][type] = "git"
-;projects[collabco_mail_feature][download][url] = "git@github.com:rafaqz/collabco_mail_feature"
-;projects[collabco_mail_feature][type] = "module"
-;;projects[collabco_mail_feature][version] = "1.0-alpha1"
-;projects[collabco_mail_feature][subdir] = "features"
+projects[collabco_mail_feature][download][type] = "git"
+projects[collabco_mail_feature][download][url] = "git@github.com:rafaqz/collabco_mail_feature"
+projects[collabco_mail_feature][type] = "module"
+projects[collabco_mail_feature][download][branch] = "off"
+;projects[collabco_mail_feature][version] = "1.0-alpha1"
+projects[collabco_mail_feature][subdir] = "features"
 
 ;projects[collabco_search_feature][download][type] = "git"
 ;projects[collabco_search_feature][download][url] = "git@github.com:rafaqz/collabco_search_feature"
