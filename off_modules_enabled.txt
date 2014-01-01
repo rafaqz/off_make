@@ -15,6 +15,7 @@ ckeditor
 collabco_conversation_feature
 collabco_formats_feature
 collabco_groups_feature
+collabco_knowledge_feature
 collabco_login_feature
 collabco_mail_feature
 collabco_message_feature
@@ -27,6 +28,7 @@ comment
 context
 context_og
 contextual
+creative_commons
 ctools
 currency
 currency_api
@@ -135,5 +137,6 @@ views_autocomplete_filters
 views_bootstrap
 views_bulk_operations
 views_content
+views_linkarea
 views_send
 views_ui
