@@ -1,11 +1,3 @@
-
-;Build META codebase
-core = 7.x
-
-api = 2
-projects[drupal][version] = "7.21"
-
-
 ; Build OFF codebase
 
 ; This is a stub make file that builds apon the core collabco make file.
