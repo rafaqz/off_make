@@ -54,7 +54,7 @@ projects[collabco_knowledge_feature][subdir] = "features"
 
 projects[collabco_profile_feature][download][type] = "git"
 projects[collabco_profile_feature][download][url] = "git@github.com:rafaqz/collabco_profile_feature"
-projects[collabco_profile_feature][download][branch] = "iin"
+projects[collabco_profile_feature][download][branch] = "off"
 projects[collabco_profile_feature][type] = "module"
 projects[collabco_profile_feature][subdir] = "features"
 
