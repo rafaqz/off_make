@@ -32,13 +32,6 @@ projects[collabco][type] = "profile"
 ; +++++ Modules +++++
 ;
 
-; +++++ Custom Modules +++++
-;projects[iin_navigation_block][type] = "module"
-;projects[iin_navigation_block][download][type] = "git"
-;projects[iin_navigation_block][download][url] = "git@github.com:rafaqz/iin_navigation_block.git"
-;projects[iin_navigation_block][download][branch] = "off"
-;projects[iin_navigation_block][subdir] = "custom"
-
 ; +++++ Features +++++
 projects[collabco_conversation_feature][download][type] = "git"
 projects[collabco_conversation_feature][download][url] = "git@github.com:rafaqz/collabco_conversation_feature"
@@ -47,23 +40,11 @@ projects[collabco_conversation_feature][type] = "module"
 ;projects[collabco_conversation_feature][version] = "1.0-alpha1"
 projects[collabco_conversation_feature][subdir] = "features"
 
-;projects[collabco_capabilities_feature][download][type] = "git"
-;projects[collabco_capabilities_feature][download][url] = "git@github.com:rafaqz/collabco_capabilities_feature"
-;projects[collabco_capabilities_feature][type] = "module"
-;;projects[collabco_capabilities_feature][version] = "1.0-alpha1"
-;projects[collabco_capabilities_feature][subdir] = "features"
-
 projects[collabco_event_feature][download][type] = "git"
 projects[collabco_event_feature][download][url] = "git@github.com:rafaqz/collabco_event_feature"
 projects[collabco_event_feature][type] = "module"
 ;projects[collabco_event_feature][version] = "1.0-alpha1"
 projects[collabco_event_feature][subdir] = "features"
-
-;projects[collabco_extension_service_feature][download][type] = "git"
-;projects[collabco_extension_service_feature][download][url] = "git@github.com:rafaqz/collabco_extension_service_feature"
-;projects[collabco_extension_service_feature][type] = "module"
-;;projects[collabco_extension_service_feature][version] = "1.0-alpha1"
-;projects[collabco_extension_service_feature][subdir] = "features"
 
 projects[collabco_knowledge_feature][download][type] = "git"
 projects[collabco_knowledge_feature][download][url] = "git@github.com:rafaqz/collabco_knowledge_feature"
@@ -84,7 +65,7 @@ projects[collabco_profile_feature][subdir] = "features"
 
 projects[collabco_message_feature][download][type] = "git"
 projects[collabco_message_feature][download][url] = "git@github.com:rafaqz/collabco_message_feature.git"
-projects[collabco_message_feature][download][branch] = "og"
+projects[collabco_message_feature][download][branch] = "off"
 projects[collabco_message_feature][type] = "module"
 projects[collabco_message_feature][subdir] = "features"
 
