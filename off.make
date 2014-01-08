@@ -1,3 +1,5 @@
+
+
 ; Build OFF codebase
 
 ; This is a stub make file that builds apon the core collabco make file.
@@ -19,15 +21,15 @@
 ;      - finishing moving all specific dependencies to make files in feature repos.
 
 core = 7.x
-
 api = 2
+projects[drupal][version] = "7.21"
 
 ; +++++ Profiles +++++
 
 ; This installs the base collabco site. which dosnt do very much on its own...
 projects[collabco][download][type] = "git"
 projects[collabco][download][url] = "git@github.com:rafaqz/off_install_profile.git"
-projects[collabco][type] = "core"
+projects[collabco][type] = "profile"
 
 ; +++++ Modules +++++
 ;
