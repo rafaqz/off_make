@@ -25,10 +25,9 @@ api = 2
 ; +++++ Profiles +++++
 
 ; This installs the base collabco site. which dosnt do very much on its own...
-projects[collabco][type] = "core"
 projects[collabco][download][type] = "git"
 projects[collabco][download][url] = "git@github.com:rafaqz/off_install_profile.git"
-projects[collabco][type] = "profile"
+projects[collabco][type] = "core"
 
 ; +++++ Modules +++++
 ;
