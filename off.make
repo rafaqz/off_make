@@ -107,6 +107,11 @@ projects[off_blog_feature][download][url] = "git@github.com:rafaqz/off_blog_feat
 projects[off_blog_feature][type] = "module"
 projects[off_blog_feature][subdir] = "features"
 
+projects[off_mail_reply_feature][download][type] = "git"
+projects[off_mail_reply_feature][download][url] = "git@github.com:rafaqz/off_mail_reply_feature"
+projects[off_mail_reply_feature][type] = "module"
+projects[off_mail_reply_feature][subdir] = "features"
+
 projects[off_membership_form_feature][download][type] = "git"
 projects[off_membership_form_feature][download][url] = "git@github.com:rafaqz/off_membership_form_feature"
 projects[off_membership_form_feature][type] = "module"
