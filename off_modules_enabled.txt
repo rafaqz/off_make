@@ -10,6 +10,7 @@ blog
 book
 book_explorer
 book_helper
+bugherd
 captcha
 ckeditor
 collabco_conversation_feature
@@ -51,6 +52,7 @@ entity_token
 features
 fe_block
 feeds
+feeds_comment_processor
 feeds_ui
 fe_nodequeue
 field
@@ -72,7 +74,11 @@ libraries
 link
 list
 logintoboggan
+mailcomment
+mailcomment_message_notify
 mail_edit
+mailhandler
+mailhandler_php_imap
 mailsystem
 mandrill
 mandrill_reports
@@ -87,9 +93,10 @@ mimemail
 money
 node
 nodequeue
+off_blog_feature
 off_categories_feature
-off_feature
 off_idea_feature
+off_mail_reply_feature
 off_membership_form_feature
 off_projects_feature
 off_wiki_feature
@@ -137,6 +144,5 @@ views_autocomplete_filters
 views_bootstrap
 views_bulk_operations
 views_content
-views_linkarea
 views_send
 views_ui
