@@ -138,7 +138,12 @@ projects[off_categories_feature][type] = "module"
 projects[off_categories_feature][subdir] = "features"
 
 ; +++++ Themes +++++
-projects[custom_theme][download][type] = "git"
-projects[custom_theme][download][url] = "git@github.com:rafaqz/off_theme.git"
-projects[custom_theme][type] = "theme"
+projects[custom_zurb][download][type] = "git"
+projects[custom_zurb][download][url] = "git@github.com:rafaqz/custom_zurb.git"
+projects[custom_zurb][type] = "theme"
+
+projects[views_foundation][subdir] = "contrib"
+projects[views_foundation][version] = "4.x-dev"
+projects[views_foundation][patch][] = "https://drupal.org/files/issues/views_foundation-sections-4.patch"
+
 
