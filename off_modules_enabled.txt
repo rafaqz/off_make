@@ -33,7 +33,7 @@ creative_commons
 ctools
 currency
 currency_api
-custom_theme
+custom_zurb
 date
 date_api
 date_repeat
@@ -144,5 +144,7 @@ views_autocomplete_filters
 views_bootstrap
 views_bulk_operations
 views_content
+views_field_view
+views_foundation
 views_send
 views_ui
