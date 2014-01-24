@@ -138,8 +138,8 @@ projects[off_categories_feature][type] = "module"
 projects[off_categories_feature][subdir] = "features"
 
 ; +++++ Themes +++++
-projects[zurb-foundaton][version]= "4.0-beta2"
-projects[zurb-foundaton][type] = "theme"
+projects[zurb-foundation][version]= "4.0-beta2"
+projects[zurb-foundation][type] = "theme"
 
 projects[custom_zurb][download][type] = "git"
 projects[custom_zurb][download][url] = "git@github.com:rafaqz/custom_zurb.git"
