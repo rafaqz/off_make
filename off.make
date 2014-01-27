@@ -149,4 +149,5 @@ projects[views_foundation][subdir] = "contrib"
 projects[views_foundation][version] = "4.x-dev"
 projects[views_foundation][patch][] = "https://drupal.org/files/issues/views_foundation-sections-4.patch"
 
-
+projects[bugherd][subdir] = "contrib"
+projects[bugherd][version] = "1.0-beta4"
