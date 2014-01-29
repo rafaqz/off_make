@@ -142,10 +142,10 @@ projects[off_pages_feature][download][url] = "git@github.com:rafaqz/off_pages_fe
 projects[off_pages_feature][type] = "module"
 projects[off_pages_feature][subdir] = "features"
 
-projects[off_social_feature][download][type] = "git"
-projects[off_social_feature][download][url] = "git@github.com:rafaqz/off_social_feature"
-projects[off_social_feature][type] = "module"
-projects[off_social_feature][subdir] = "features"
+projects[off_share_feature][download][type] = "git"
+projects[off_share_feature][download][url] = "git@github.com:rafaqz/off_share_feature"
+projects[off_share_feature][type] = "module"
+projects[off_share_feature][subdir] = "features"
 
 ; +++++ Themes +++++
 projects[zurb-foundation][version]= "4.0-beta2"
