@@ -13,6 +13,7 @@ book_helper
 bugherd
 captcha
 ckeditor
+ckeditor_media
 collabco_conversation_feature
 collabco_formats_feature
 collabco_groups_feature
@@ -30,7 +31,6 @@ context
 context_og
 contextual
 context_ui
-creative_commons
 ctools
 currency
 currency_api
@@ -57,9 +57,11 @@ feeds_comment_processor
 feeds_ui
 fe_nodequeue
 field
+field_formatter_settings
 field_sql_storage
 field_ui
 file
+file_entity
 filter
 flag
 freelinking
@@ -85,6 +87,7 @@ mandrill
 mandrill_reports
 mandrill_template
 masquerade
+media
 menu
 message
 message_notify
@@ -99,7 +102,9 @@ off_categories_feature
 off_idea_feature
 off_mail_reply_feature
 off_membership_form_feature
+off_pages_feature
 off_projects_feature
+off_share_feature
 off_wiki_feature
 og
 og_access
@@ -126,6 +131,7 @@ reg_with_pic
 rules
 search
 seven
+social_share
 stringoverrides
 strongarm
 subpathauto
@@ -146,6 +152,7 @@ views_autocomplete_filters
 views_bootstrap
 views_bulk_operations
 views_content
+views_content_cache
 views_field_view
 views_foundation
 views_send
