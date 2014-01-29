@@ -137,6 +137,16 @@ projects[off_categories_feature][download][url] = "git@github.com:rafaqz/off_cat
 projects[off_categories_feature][type] = "module"
 projects[off_categories_feature][subdir] = "features"
 
+projects[off_pages_feature][download][type] = "git"
+projects[off_pages_feature][download][url] = "git@github.com:rafaqz/off_pages_feature"
+projects[off_pages_feature][type] = "module"
+projects[off_pages_feature][subdir] = "features"
+
+projects[off_social_feature][download][type] = "git"
+projects[off_social_feature][download][url] = "git@github.com:rafaqz/off_social_feature"
+projects[off_social_feature][type] = "module"
+projects[off_social_feature][subdir] = "features"
+
 ; +++++ Themes +++++
 projects[zurb-foundation][version]= "4.0-beta2"
 projects[zurb-foundation][type] = "theme"
