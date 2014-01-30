@@ -147,6 +147,11 @@ projects[off_share_feature][download][url] = "git@github.com:rafaqz/off_share_fe
 projects[off_share_feature][type] = "module"
 projects[off_share_feature][subdir] = "features"
 
+projects[off_featured_feature][download][type] = "git"
+projects[off_featured_feature][download][url] = "git@github.com:rafaqz/off_featured_feature"
+projects[off_featured_feature][type] = "module"
+projects[off_featured_feature][subdir] = "features"
+
 ; +++++ Themes +++++
 projects[zurb-foundation][version]= "4.0-beta2"
 projects[zurb-foundation][type] = "theme"
