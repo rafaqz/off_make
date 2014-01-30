@@ -98,6 +98,7 @@ node
 nodequeue
 off_blog_feature
 off_categories_feature
+off_featured_feature
 off_idea_feature
 off_mail_reply_feature
 off_membership_form_feature
