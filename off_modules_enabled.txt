@@ -6,7 +6,6 @@ better_exposed_filters
 better_formats
 block
 block_class
-blog
 book
 book_explorer
 book_helper
@@ -53,9 +52,7 @@ entity_token
 features
 fe_block
 feeds
-feeds_comment_processor
 feeds_ui
-fe_nodequeue
 field
 field_sql_storage
 field_ui
@@ -63,6 +60,7 @@ file
 file_entity
 filter
 flag
+flagging_form
 freelinking
 freelinking_prepopulate
 help
@@ -76,11 +74,7 @@ libraries
 link
 list
 logintoboggan
-mailcomment
-mailcomment_message_notify
 mail_edit
-mailhandler
-mailhandler_php_imap
 mailsystem
 mandrill
 mandrill_reports
@@ -95,13 +89,11 @@ message_subscribe_ui
 mimemail
 money
 node
-nodequeue
-off_blog_feature
 off_categories_feature
 off_featured_feature
 off_idea_feature
-off_mail_reply_feature
 off_membership_form_feature
+off_news_feature
 off_pages_feature
 off_projects_feature
 off_share_feature
