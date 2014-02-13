@@ -97,6 +97,7 @@ off_news_feature
 off_pages_feature
 off_projects_feature
 off_share_feature
+off_tags_feature
 off_wiki_feature
 og
 og_access
@@ -113,7 +114,6 @@ paymentmethodbasic
 payment_paypal
 prepopulate
 profile2
-quicktabs
 rdf
 realname
 recaptcha
