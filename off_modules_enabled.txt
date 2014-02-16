@@ -89,6 +89,7 @@ message_subscribe_ui
 mimemail
 money
 node
+off_basic_page_feature
 off_featured_feature
 off_idea_feature
 off_membership_form_feature
