@@ -123,6 +123,7 @@ register_preapproved
 reg_with_pic
 rules
 search
+session_api
 seven
 social_share
 stringoverrides
@@ -148,5 +149,6 @@ views_content
 views_content_cache
 views_field_view
 views_foundation
+views_infinite_scroll
 views_send
 views_ui
