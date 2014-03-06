@@ -143,7 +143,6 @@ uuid_features
 views
 views_arg_context
 views_autocomplete_filters
-views_bootstrap
 views_bulk_operations
 views_content
 views_content_cache
