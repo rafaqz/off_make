@@ -99,6 +99,7 @@ off_pages_feature
 off_projects_feature
 off_share_feature
 off_tags_feature
+off_tag_filter_feature
 off_wiki_feature
 og
 og_access
