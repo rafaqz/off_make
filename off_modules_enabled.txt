@@ -113,7 +113,8 @@ pathauto
 pathologic
 payment
 paymentmethodbasic
-payment_paypal
+paypal_payment
+paypal_payment_ec
 prepopulate
 profile2
 rdf
