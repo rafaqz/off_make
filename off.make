@@ -26,7 +26,7 @@ projects[drupal][version] = "7.24"
 
 ; +++++ Profiles +++++
 
-; This installs the base collabco site. which dosnt do very much on its own...
+; This installs the base collabco site. 
 projects[collabco][download][type] = "git"
 projects[collabco][download][url] = "git@github.com:rafaqz/off_install_profile.git"
 projects[collabco][type] = "profile"
