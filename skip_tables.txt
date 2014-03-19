@@ -84,7 +84,6 @@ media_filter_usage
 media_list_type
 media_type
 menu_custom
-menu_links
 menu_router
 message_type
 message_type_category
