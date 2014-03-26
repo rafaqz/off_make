@@ -131,6 +131,7 @@ social_share_networks
 system
 taxonomy_vocabulary
 trigger_assignments
+variables
 views_content_cache
 views_data_export
 views_data_export_object_cache
