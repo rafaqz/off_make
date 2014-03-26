@@ -1,0 +1,9 @@
+bugherd_project_key
+mandrill_api_key
+mandrill_mail_key_blacklist
+payment_paypal_default_crypt_password_key
+site_mail
+site_name
+site_slogan
+recaptcha_private_key
+recaptcha_public_key
