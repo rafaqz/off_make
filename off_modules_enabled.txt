@@ -90,6 +90,7 @@ mimemail
 money
 node
 off_basic_page_feature
+off_bugherd_feature
 off_featured_feature
 off_header_feature
 off_idea_feature
