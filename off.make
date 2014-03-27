@@ -30,7 +30,3 @@ projects[drupal][version] = "7.24"
 projects[collabco][download][type] = "git"
 projects[collabco][download][url] = "git@github.com:rafaqz/off_install_profile.git"
 projects[collabco][type] = "profile"
-
-; +++++ Modules +++++
-projects[bugherd][subdir] = "contrib"
-projects[bugherd][version] = "1.0-beta4"
