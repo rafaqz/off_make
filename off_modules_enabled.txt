@@ -15,7 +15,6 @@ off_bugherd_feature
 off_featured_feature
 off_front_icons_feature
 off_header_feature
-off_idea_feature
 off_image_feature
 off_membership_form_feature
 off_news_feature
