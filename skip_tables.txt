@@ -59,8 +59,6 @@ feeds_log
 feeds_push_subscriptions
 feeds_source
 fe_block_boxes
-field_collection_item
-field_collection_item_revision
 field_config
 field_config_instance
 filter
