@@ -63,6 +63,8 @@ field_config
 field_config_instance
 filter
 filter_format
+flag
+flag_type
 flood
 history
 image_dimensions
