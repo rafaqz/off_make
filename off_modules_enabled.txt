@@ -12,6 +12,7 @@ collabco_organisation_feature
 collabco_profile_feature
 off_basic_page_feature
 off_bugherd_feature
+off_document_feature
 off_featured_feature
 off_front_icons_feature
 off_header_feature
@@ -24,4 +25,3 @@ off_projects_feature
 off_share_feature
 off_tags_feature
 off_tag_filter_feature
-off_wiki_feature
