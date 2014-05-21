@@ -8,7 +8,6 @@ collabco_login_feature
 collabco_mail_feature
 collabco_message_feature
 collabco_module
-collabco_organisation_feature
 collabco_profile_feature
 off_basic_page_feature
 off_bugherd_feature
@@ -17,7 +16,6 @@ off_featured_feature
 off_front_icons_feature
 off_header_feature
 off_image_feature
-off_membership_form_feature
 off_news_feature
 off_pages_feature
 off_performance_feature
