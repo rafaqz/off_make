@@ -16,3 +16,8 @@ site_mail
 site_name
 site_slogan
 update_notify_emails
+update_notification_threshold
+update_last_email_notification
+update_last_check
+update_check_frequency
+update_check_disabled
