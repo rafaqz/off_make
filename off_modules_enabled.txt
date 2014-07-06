@@ -9,6 +9,7 @@ collabco_mail_feature
 collabco_message_feature
 collabco_module
 collabco_profile_feature
+collabco_spam_feature
 off_basic_page_feature
 off_bugherd_feature
 off_document_feature
